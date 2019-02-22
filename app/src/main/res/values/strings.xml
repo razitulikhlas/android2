@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aplikasi Jadwal Kuliah</string>
+
+    <string-array name="Hari">
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jumaat</item>
+    </string-array>
+</resources>
